@@ -1,7 +1,4 @@
 
-# en kode som ser etter vokaler i ordet og skriver ut hvor mange vokaler det er i ordet
-
-
 def vokaler(ord):
     vokal = 0
     for i in ord:
